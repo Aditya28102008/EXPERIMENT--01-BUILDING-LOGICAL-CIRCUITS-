@@ -161,6 +161,26 @@ For each circuit, record:
 - Functional equivalence before and after simplification
 
 ## 7. Expected Results
+<img width="1600" height="824" alt="image" src="https://github.com/user-attachments/assets/d4a4357f-90a4-417e-a9f3-bb38b66e31a3" />
+
+<img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/90cc404f-22e1-405c-a88c-435debd1748d" />
+
+<img width="1600" height="726" alt="image" src="https://github.com/user-attachments/assets/536f9167-c52d-4200-8c97-33211461c880" />
+
+<img width="1600" height="803" alt="WhatsApp Image 2026-11-17 at 4 45 59 PM" src="https://github.com/user-attachments/assets/fcc12168-d1ba-41ff-9796-6556993c82ee" />
+
+<img width="1600" height="766" alt="WhatsApp Image 2026-11-17 at 4 46 10 PM" src="https://github.com/user-attachments/assets/f0778f47-6902-4710-852e-4633c03f859f" />
+
+<img width="1600" height="856" alt="WhatsApp Image 2026-11-17 at 4 46 25 PM" src="https://github.com/user-attachments/assets/f882b641-a325-48a1-bb10-59168ae64a98" />
+
+<img width="1600" height="857" alt="WhatsApp Image 2026-11-17 at 4 46 36 PM" src="https://github.com/user-attachments/assets/5697af5c-b0cf-4927-bc18-3c4f45e5423d" />
+
+<img width="1600" height="790" alt="WhatsApp Image 2026-11-17 at 4 46 50 PM" src="https://github.com/user-attachments/assets/2ff76d83-dbaa-4643-9c4a-c0d381b74930" />
+
+
+
+
+
 
 The eight Boolean functions should be implemented successfully. Their outputs should match the theoretical truth tables for all input combinations.
 
